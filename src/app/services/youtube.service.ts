@@ -10,7 +10,7 @@ import { map } from 'rxjs/operators';
 export class YoutubeService {
 
   private youtubeUrl = 'https://www.googleapis.com/youtube/v3';
-  private apiKey = 'AIzaSyCraFnvY10uETLGY8kV3c72bGnD4Z6swJg';
+  private apiKey = 'YOUR_API_KEY_HERE';
   private playList = 'PLP-Bu4qV8Z71H2yyCE5p7jx-kOXpv3ZQJ';
   private nextPageToken = '';
 
